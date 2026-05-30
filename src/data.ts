@@ -2,7 +2,7 @@ export const site = {
   name: "City Gas Station Simulator",
   tagline: "Play City Gas Station Simulator online free. No download needed.",
   domain: "citygasstationsimulator.com",
-  cdnUrl: "https://html5.gamedistribution.com/47ae55f0a59a41ed871cd94c93083b01/",
+  cdnUrl: "https://html5.gamedistribution.com/47ae55f0a59a41ed871cd94c93083b01/?gd_sdk_referrer_url=https://citygasstationsimulator.com/",
   sourcePlatform: "gamedistribution" as const,
   ogImageUrl: "https://img.gamedistribution.com/47ae55f0a59a41ed871cd94c93083b01-512x384.jpg",
   genre: ["Simulation", "Casual"],
